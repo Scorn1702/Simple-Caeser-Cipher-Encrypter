@@ -1,2 +1,7 @@
 # Basic-Caeser-Cipher-Encrypter
-Basic Caeser cipher encryption tool coded in python.
+The tool allows a user to enter their desired text file name and shift pattern for encryption.
+
+# HOW TO USE
+1. make sure the encrypter python file is in the same directory as the text file.
+2. 
+
