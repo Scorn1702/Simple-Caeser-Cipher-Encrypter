@@ -1,4 +1,4 @@
-# Basic-Caeser-Cipher-Encrypter
+# Simple-Caeser-Cipher-Encrypter
 The tool allows a user to enter their desired text file name and shift pattern for a caeser cipher encryption.
 
 # HOW TO USE
